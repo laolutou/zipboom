@@ -1,5 +1,5 @@
 # zipboom
-zippboom
+zipboom
 English：This is a malicious files.
 Click the extract button began to unpack.
 Use the browse button to select target folder from the directory tree. It can also be entered manually.
